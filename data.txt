@@ -1,0 +1,31 @@
+hello world
+this is a test
+python is fun
+machine learning is cool
+natural language processing
+character level language model
+The quick brown fox jumps over the lazy dog.
+Pack my box with five dozen liquor jugs.
+How vexingly quick daft zebras jump!
+
+Hello world!
+Hello, how are you?
+Hello, my name is John.
+Hello, nice to meet you!
+
+The sun shines brightly in the clear blue sky.
+The big brown bear climbed up the mountain.
+The little girl laughed loudly at the funny clown.
+
+Hello, what's up?
+Hello, friend!
+Hi, how's it going?
+Hey, long time no see!
+
+The cat purrs contentedly on my lap.
+The dog wags its tail with excitement.
+The baby smiles sweetly at her mother.
+
+In the land of the free and the home of the brave,
+America's diverse culture shines brightly.
+From sea to shining sea, this nation's beauty grows.
